@@ -81,6 +81,11 @@ body {
   letter-spacing: -.05rem;
 }
 
+/* custom desain */
+.spasi{
+    margin: 50px auto;
+    color: #000;
+}
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
